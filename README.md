@@ -12,6 +12,9 @@ These are a whole bunch of websites that I've found useful as I learn systems pr
 - https://devlog.hexops.com/2022/lets-build-ecs-part-1/
 ## Sparse Sets and Advanced Data Storage
 - [cient - Optimizing My ECS Game Engine to Simulate 100,000 Entities | Sparse sets](https://youtu.be/yyZMoE1FAJ0)
+## Advanced
+### Entity Relationships
+- [Sander Mertens - Building Games in ECS with Entity Relationships](https://ajmmertens.medium.com/building-games-in-ecs-with-entity-relationships-657275ba2c6c)
 ## Other
 - [Bob Nystrom - Is There More to Game Architecture than ECS?](https://youtu.be/JxI3Eu5DPwE)
 - [UnitOfTime - Building a fast ECS on top of a slow ECS](https://youtu.be/71RSWVyOMEY)
