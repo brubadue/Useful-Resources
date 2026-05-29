@@ -10,8 +10,9 @@ These are a whole bunch of websites that I've found useful as I learn systems pr
 - https://www.david-colson.com/2020/02/09/making-a-simple-ecs.html
 - https://ajmmertens.medium.com/doing-a-lot-with-a-little-ecs-identifiers-25a72bd2647
 - https://devlog.hexops.com/2022/lets-build-ecs-part-1/
-## Sparse Sets and Advanced Data Storage
+## Sparse Sets and Archetypes
 - [cient - Optimizing My ECS Game Engine to Simulate 100,000 Entities | Sparse sets](https://youtu.be/yyZMoE1FAJ0)
+- [Building an ECS Part 2 - Archetypes and Vectorization](https://ajmmertens.medium.com/building-an-ecs-2-archetypes-and-vectorization-fe21690805f9) (Sander Mertens yet again)
 ## Advanced
 ### Entity Relationships
 - [Sander Mertens - Building Games in ECS with Entity Relationships](https://ajmmertens.medium.com/building-games-in-ecs-with-entity-relationships-657275ba2c6c)
